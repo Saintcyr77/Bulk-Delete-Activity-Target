@@ -1,25 +1,4 @@
-# Bulk Delete Target Activities
 
-**Disclaimer:** This script is a workaround for deleting Target activities in bulk. Adobe Target does not have an official bulk delete API yet, so I've created this solution. **Use with caution!** If you accidentally delete the wrong activities, **I'm not responsible for bringing down your entire company**. Proceed at your own risk!
-
-## How to Use
-
-1. **Install Node.js**
-
-   Ensure you have Node.js installed. If not, [download and install it here](https://nodejs.org/).
-
-2. **Clone the Repository**
-
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-
-   
-Memory updated
-Here is the complete README.md with all the details included:
-
-markdown
-Copy code
 # Bulk Delete Target Activities
 
 **Disclaimer:** This script is a workaround for deleting Target activities in bulk. Adobe Target does not have an official bulk delete API yet, so I've created this solution. **Use with caution!** If you accidentally delete the wrong activities, **I'm not responsible for bringing down your entire company**. Proceed at your own risk!
